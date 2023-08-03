@@ -1,1 +1,1 @@
-# Python Telegram Bot Template
+Python project starter template
